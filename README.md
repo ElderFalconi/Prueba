@@ -1,4 +1,4 @@
-## ¡Hola a todos!
+## ¡Bienvenidos a mi página!
 
 Soy **Elder Falconi**
 - Edad: 18 años
@@ -8,4 +8,4 @@ Soy **Elder Falconi**
 1. Videojuegos
 2. Pintar
 3. Escribir
-'System.out.printline("Hello world")'
+   `System.out.printline("Hello world")`
