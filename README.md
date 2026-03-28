@@ -1,6 +1,11 @@
 ## ¡Hola a todos!
 
-Soy Elder Falconi
-Edad: 18 años
-Carrera: Ing. de Software
-Hobbies: Videojuegos, pintar y escribir
+Soy **Elder Falconi**
+- Edad: 18 años
+- Facultad: FISI
+- Carrera: *Ing. de Software*
+# Hobbies
+1. Videojuegos
+2. Pintar
+3. Escribir
+'System.out.printline("Hello world")'
